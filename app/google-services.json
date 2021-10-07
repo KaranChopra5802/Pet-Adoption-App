@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1098545314738",
+    "project_id": "adoptapet-7878f",
+    "storage_bucket": "adoptapet-7878f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1098545314738:android:9307d4f142c8ace36fc2ab",
+        "android_client_info": {
+          "package_name": "com.example.adopt_a_pet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1098545314738-gnm18jocsqnr87h9qi2u9m6r5k7unjn5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJQmbOjoJLaFdcfBXBJPS-o8Z7_TgFt7k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1098545314738-gnm18jocsqnr87h9qi2u9m6r5k7unjn5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
